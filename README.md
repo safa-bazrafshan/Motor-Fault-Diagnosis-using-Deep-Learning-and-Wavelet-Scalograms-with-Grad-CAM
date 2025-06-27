@@ -43,11 +43,7 @@ Grad-CAM highlights the areas of the image the model focuses on while making pre
 
 ---
 
-## 🗂️ Project Structure
 
-├── data/                         # Synthetic signal and scalogram data ├── spectrograms/                # CWT images ├── gradcam/                     # Grad-CAM visualizations ├── models/                      # Trained model (optional) ├── scripts/ │   ├── generate_data.py │   ├── create_scalograms.py │   ├── train_cnn.py │   ├── evaluate_models.py │   └── gradcam_visualize.py ├── README.md
-
----
 
 ## 🚀 How to Run
 
